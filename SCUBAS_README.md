@@ -50,7 +50,6 @@ If this project speaks to you — **give it a ⭐️ and share it.** It costs no
 
 **Nick Salter**  
 📧 NickNarcoir@gmail.com  
-📱 (956) 784-2608  
 📷 Instagram: [@NickNarcoir](https://instagram.com/nicknarcoir)  
 📺 YouTube: [Narcóir – Still Learning](https://youtube.com/@narcóir)
 
