@@ -5,6 +5,7 @@ SCUBAS is more than a converted school bus — it’s a rolling platform for res
 Built from scrap (and the ashes of my old life), SCUBAS is becoming a mobile wilderness education unit, a search & rescue support rig, and a media hub for raw, field-based stories about adventure, healing, rebuilding, and reconnecting with the land.
 
 ✨ What It Is
+
 A solar-powered, off-grid mobile base built for rural deployment
 A space to host movement-based wellness workshops in rope flow, balance, and resilience
 A rescue-ready unit with gear mounts for paramotor, kayak, EUC, and dirt bike
@@ -15,6 +16,7 @@ My name is Nick Salter, and SCUBAS was born from one of the hardest chapters of 
 Now, I’m 70% of the way through building SCUBAS from the ground up. I’ve taught myself welding, solar design, plumbing, electrical systems, cabinetry, and more — not for the sake of content, but for the sake of healing and helping others.
 
 💡 Why It Matters
+
 A way to bring movement medicine and outdoor skill-building to communities that need it
 A tool to support search and rescue teams when others can’t get there
 A symbol that we can build something better — from scratch, from pain, from hope
