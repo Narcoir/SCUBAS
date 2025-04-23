@@ -4,13 +4,28 @@ SCUBAS is more than a converted school bus — it’s a rolling platform for res
 
 Built from scrap (and the ashes of my old life), SCUBAS is becoming a mobile wilderness education unit, a search & rescue support rig, and a media hub for raw, field-based stories about adventure, healing, rebuilding, and reconnecting with the land.
 
+
+
+
+
+![Bus 1](https://github.com/user-attachments/assets/23338e18-1678-49ca-a9f5-4d5e68256fa6)
+
+![bus living room](https://github.com/user-attachments/assets/bbc012fd-2713-43a2-8a38-ef8baed844b7)
+
+
+
+
+
+
 ✨ What It Is
 
 A solar-powered, off-grid mobile base built for rural deployment
 A space to host movement-based wellness workshops in rope flow, balance, and resilience
 A rescue-ready unit with gear mounts for paramotor, kayak, EUC, and dirt bike
 A YouTube project and storytelling platform for outdoor education, conservation, skill-sharing, mental health, and adventure!
+
 🛠️ How It Started
+
 My name is Nick Salter, and SCUBAS was born from one of the hardest chapters of my life. After personal loss, injury, and the passing of my mother — I returned home to care for my sister with a traumatic brain injury. I bid on an old school bus on a whim, just to keep my hands busy and my mind sane… and won. That “project” turned into the greatest act of survival and creativity I’ve ever known.
 
 Now, I’m 70% of the way through building SCUBAS from the ground up. I’ve taught myself welding, solar design, plumbing, electrical systems, cabinetry, and more — not for the sake of content, but for the sake of healing and helping others.
@@ -18,9 +33,13 @@ Now, I’m 70% of the way through building SCUBAS from the ground up. I’ve tau
 💡 Why It Matters
 
 A way to bring movement medicine and outdoor skill-building to communities that need it
+
 A tool to support search and rescue teams when others can’t get there
+
 A symbol that we can build something better — from scratch, from pain, from hope
+
 🌱 Why I'm on GitHub
+
 I’m currently seeking 100 stars on this project so I can submit SCUBAS to Open Collective and receive fiscal sponsorship. That support will help me apply for grants through Patagonia Action Works, Adventure Scientists, and other organizations that believe in field-based impact.
 
 If this project speaks to you — give it a ⭐️ and share it. It costs nothing, but helps a lot.
